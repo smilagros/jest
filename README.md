@@ -33,6 +33,8 @@ Add the following section to your package.json:
         "test": "jest"
       }
     }
+    
+For the jest-basice-examples/functions.ts you need install: npm install axios
 
 Finally, run yarn test or npm run test and Jest will print this message:
 
